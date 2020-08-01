@@ -1,7 +1,18 @@
 ### Hi there 👋, I'm Gabriel Moura from Brazil!
 
+Enthusiast of best technologies in web development. 
+In constant learned for become myself a better developer, identifyed myself with JavaScript and your entire ecosystem. For believing that people's life can changed, I started my journey in the programming area and today it has become a passion.
+
+- 🌱 I’m currently learning about JavaScript, React and NodeJS
+
+### You can also find me on
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/GCMoura)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/gabrielcormoura)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/gabriel-moura-b45b90150/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:gabrielmoura29@gmail.com)
+
+### My GitHub stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=gcmoura&show_icons=true)
 
 <!--
 **GCMoura/GCMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
