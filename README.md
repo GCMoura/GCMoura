@@ -12,7 +12,7 @@ In constant learned for become myself a better developer, identifyed myself with
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:gabrielmoura29@gmail.com)
 
 ### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=gcmoura&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=gcmoura&show_icons=true&theme=dark)
 
 <!--
 **GCMoura/GCMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
