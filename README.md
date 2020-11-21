@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Gabriel Moura from Brazil!
 
-Enthusiast of best technologies in web development. 
-In constant learned for become myself a better developer, identifyed myself with JavaScript and your entire ecosystem. For believing that people's life can changed, I started my journey in the programming area and today it has become a passion.
+Front-end developer passionate for best web development technologies, mainly HTML5, CSS3 and Javascript.
+In constant learning for improve like programer and like human being.
 
 - 🌱 I’m currently learning about JavaScript, React and NodeJS
 
