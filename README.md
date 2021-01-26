@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Gabriel Moura from Brazil!
 
-Front-end developer passionate for best web development technologies, mainly HTML5, CSS3 and Javascript.
-In constant learning for improve like programer and like human being.
+As a continuous web developer learner I enjoy using my attention to detail, my love for making things, and my work ethic to change the world. That's why I’m excited to get my first opportunity like developer in tech world.
 
-- 🌱 I’m currently learning about JavaScript, React and NodeJS
+- 🌱 I’m currently learning about JavaScript and NodeJS
 
 ### You can also find me on
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/GCMoura)
