@@ -1,30 +1,23 @@
-### Hi there 👋, I'm Gabriel Moura from Brazil!
+<h1 align="center">Hi 👋, I'm Gabriel Moura</h1>
+<h3 align="center">Constantly learning about new technologies, I enjoy using my attention to detail, my love for making things, and my work ethic to change the world. That's why I’m excited to get my first opportunity like developer in tech world.</h3>
 
-As a continuous web developer learner I enjoy using my attention to detail, my love for making things, and my work ethic to change the world. That's why I’m excited to get my first opportunity like developer in tech world.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gcmoura&label=Profile%20views&color=0e75b6&style=flat" alt="gcmoura" /> </p>
 
-### You can also find me on
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/GCMoura)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/gabrielcormoura)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/gabriel-moura-b45b90150/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:gabrielmoura29@gmail.com)
+- 🌱 I’m currently learning **Javascript and React**
 
-### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=gcmoura&show_icons=true&theme=dark)
+- 👨‍💻 All of my projects are available at [https://gcmoura-portfolio.netlify.app/](https://gcmoura-portfolio.netlify.app/)
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcmoura)](https://github.com/gcmoura/github-readme-stats)
+- 📫 How to reach me **gabrielmoura29@gmail.com**
 
-<!--
-**GCMoura/GCMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-moura-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-moura-developer/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://pt.stackoverflow.com/users/141000/gabriel-moura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://pt.stackoverflow.com/users/141000/gabriel-moura" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gcmoura&show_icons=true&locale=en" alt="gcmoura" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gcmoura&theme=dark" alt="gcmoura" /></p>
